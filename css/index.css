@@ -18,6 +18,24 @@
   background-size: cover;
 }
 
+.carousel-inner {
+  height: 100%;
+  background: #000;
+}
+
+.carousel-caption{
+  background-color: rgba(250, 248, 248, 0.87);
+  margin-bottom:30em;
+  margin-right:20em;
+  margin-left:20em;
+}
+.carousel-caption h2 {
+  color: black;
+}
+.carousel-caption p {
+  color: black;
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
