@@ -7,7 +7,12 @@
  body {
    height: 100%;
  }
-
+ h2 {
+  font-size: 3em!important;
+ }
+p {
+  font-size: 1.4em!important;
+}
 .carousel-item {
   height: 100vh;
   min-height: 300px;
